@@ -38,7 +38,7 @@ export const BtnList = [
     },
     {
       label: "Resume",
-      link: "https://drive.google.com/file/d/1EcTEyEhK5UI06XODtUey3L21ANz2qIfw/view?usp=sharing",
+      link: "https://drive.google.com/file/d/1Sf-QGE_5Cu_-zVZ1aza-n7ZP23XdA8nD/view?usp=sharing",
       icon: <FontAwesomeIcon icon={faFileAlt}/>,
       index:6,
       newTab: true,
